@@ -1,1 +1,1 @@
-Start-Service -Name node-exporter
+Stop-Service -Name node-exporter -Force
